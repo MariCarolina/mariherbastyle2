@@ -5,7 +5,7 @@
 html{
     scroll-behavior: smooth;
   }
-  *{margin: 0;padding: 0;box-sizing: border-box;font-family: '"Fira Sans", sans-serif !important;}
+  *{margin: 0;padding: 0;box-sizing: border-box;font-family: "Fira Sans", sans-serif !important;}
   a{text-decoration: none;}
   a:hover{text-decoration: none;}
   li{list-style: none;}
@@ -264,7 +264,7 @@ html{
   .card-second{
     transform: translateY(-20px);
     /* box-shadow: 0 0 20px 0 rgba(0,0,0,0.3); */
-  }16c9f6
+  }
    /* ********************* our pricing ends ****************************** */
   
   
